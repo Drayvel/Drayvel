@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Drayvel/Drayvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at a school as an IT
+- 🌱 I’m currently learning N8N and Python
+- 📫 How to reach me: dayvdg@gmail.com
 
-Here are some ideas to get you started:
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vue" />
+    <img src="https://skillicons.dev/icons?i=nodejs,golang,javascript,typescript" /><br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/drayvel">
+    <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=drayvel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=310 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=drayvel&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
